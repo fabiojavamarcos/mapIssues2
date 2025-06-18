@@ -1,3 +1,5 @@
+Reads the file with issues and PRs linked (from [ETL2-Pipeline](https://github.com/fabiojavamarcos/ETL2-Pipeline)) and populates the pr_issue table (skills database).
+
 ## Arguments example:
 Username: postgres\
 Password: admin\
